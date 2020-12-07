@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607368219 source:c:\users\pc\documents\prog\projeto_mercado\projeto_contabancaria\projeto_contabancaria\main.c
+	<stdio.h>
+	<stdlib.h>
+
